@@ -2,6 +2,8 @@
 
 A clean, responsive coffee shop landing page built with **HTML5** and **CSS3**. This is a fictional café concept created as a frontend practice project.
 
+**Live demo:**
+
 ## Preview
 
 The page includes a warm coffee-inspired color palette, a CSS-drawn coffee cup illustration, a short café introduction, sample menu cards, and a contact section.
@@ -74,7 +76,7 @@ This project is currently a static frontend demonstration.
 
 ## Author
 
-**Toma**
+**Farhana Yeasmin Toma ([@Toma-107](https://github.com/Toma-107))**
 
 Frontend practice project — HTML & CSS.
 
