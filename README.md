@@ -2,7 +2,7 @@
 
 A clean, responsive coffee shop landing page built with **HTML5** and **CSS3**. This is a fictional café concept created as a frontend practice project.
 
-**Live demo:**https://toma-107.github.io/brew-bean-cafe/
+**Live demo:** https://toma-107.github.io/brew-bean-cafe/
 
 ## Preview
 
